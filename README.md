@@ -5,7 +5,7 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+# inspired by Zhenye-Na
 
 class SoftwareEngineer:
 
